@@ -36,3 +36,5 @@ por meio de uma aplicação web.
 A apresentação completa do projeto está disponível no arquivo:
 
 Apresentacao_CRUD_Gabi_Programacao_Web_II.pptx
+
+É só baixar o arquivo para ver a apresentação.
